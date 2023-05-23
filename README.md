@@ -25,6 +25,7 @@ Pour la génération des propositions :
 Pour le changement de niveau, j'ai pris un compteur `cpt_lvl` que j'incrémente à chaque passage de nouvelles questions :
 + Si `cpt_lvl` est supérieure à 10, je passe au Niveau 2
 + Si `cpt_lvl` est supérieure à 25, je passe au Niveau 3  
+  
 Le Niveau actuel est affiché en haut de la fenêtre.
   
 # Utilisation
